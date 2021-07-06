@@ -2,7 +2,7 @@
 
 - 👋 Olá, Meu nome é Matheus Henrique.
 - ⌨️ Sou Desenvolvedor Back-end .Net/C#.
-- 💞️ Sou apaixonado por por técnologia.
+- 💞️ Sou apaixonado por técnologia.
 - 🌱 Atualmente, estou me desenvolvendo na cosntrução de API's Rest e micro serviços.
 - ✨ Procuro sempre me aprimorar profissionalmente, e um dia espero ser um grande desenvolvedor.
 <!---
